@@ -1,3 +1,7 @@
+/**
+ * This is the first fun play code for TP2
+ */
+
 package hello;
 
 public class HelloWorld {
